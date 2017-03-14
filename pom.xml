@@ -7,6 +7,7 @@
 
   <modules>
     <module>feature</module>
+    <module>updatesite</module>
   </modules>
 
   <build>
